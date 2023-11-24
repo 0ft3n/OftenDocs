@@ -6,6 +6,7 @@
                  name="Docs"
                  start-page="Default-topic.md">
 
+    <toc-element topic="Default-topic.md"/>
     <toc-element topic="Tutorial.md"/>
     <toc-element topic="RPGDrops.md">
         <toc-element topic="Showcase.md"/>
@@ -13,5 +14,4 @@
     <toc-element topic="Reference.md"/>
     <toc-element topic="Overview.md"/>
     <toc-element topic="How-to.md"/>
-    <toc-element topic="Default-topic.md"/>
 </instance-profile>
