@@ -43,7 +43,7 @@ jobs:
       - uses: actions/download-artifact@v3
         name: Download documentation
         with:
-          name: ${{ env.ARTIFACT }}
+          name: docs
           path: docs
 
       - name: Display structure of downloaded files
