@@ -70,4 +70,4 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           script: |
             chmod +x /home/often/docs.sh
-            ./home/often/docs.sh
+            /home/often/docs.sh
