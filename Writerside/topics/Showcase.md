@@ -11,7 +11,7 @@
 ###### An example of getting a custom drop from fishing {collapsible="true"}
 <video src="RPGDrops3.mp4"/>
 
-###### - 11
+###### -
 > More to come! \
 > As features are being added to the plugin, their showcasing videos will appear on this page, so keep an eye on it!
 {style="tip"}
