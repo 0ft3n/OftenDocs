@@ -59,6 +59,7 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           source: "docs/webHelpD2-all.zip"
           target: "/home/often"
+          strip_components: 1
 
       - name: Executing remote command
         uses: appleboy/ssh-action@master
@@ -68,5 +69,5 @@ jobs:
           port: ${{ secrets.PORT }}
           password: ${{ secrets.PASSWORD }}
           script: |
-            chmod +x docs.sh
-            ./docs.sh
+            chmod +x /home/often/docs.sh
+            ./home/often/docs.sh
