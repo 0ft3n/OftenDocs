@@ -49,3 +49,25 @@ jobs:
       - name: Display structure of downloaded files
         run: ls -R
         working-directory: docs
+
+      - name: Copy repository contents via scp
+        uses: appleboy/scp-action@master
+        env:
+          HOST: ${{ secrets.HOST }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PORT: ${{ secrets.PORT }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+        with:
+          source: "docs/webHelpD2-all.zip"
+          target: "/home/dkoften"
+
+      - name: Executing remote command
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          USERNAME: ${{ secrets.USERNAME }}
+          PORT: ${{ secrets.PORT }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+          script: |
+            chmod +x /home/often/docs.sh
+            ./home/often/docs.sh
