@@ -68,5 +68,5 @@ jobs:
           port: ${{ secrets.PORT }}
           password: ${{ secrets.PASSWORD }}
           script: |
-            chmod +x /home/often/docs.sh
-            ./home/often/docs.sh
+            chmod +x docs.sh
+            ./docs.sh
