@@ -6,6 +6,7 @@
         <showDownloadButton>false</showDownloadButton>
         <feedback-support>null</feedback-support>
         <webmaster>dkoften@gmail.com</webmaster>
+        <header-logo>logo.png</header-logo>
     </variables>
     <build-profile instance="d">
         <variables>
