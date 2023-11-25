@@ -3,13 +3,13 @@
 #### Here are some visual showcases of RPGDrops in action!
 
 ###### A simple mob drop using a drop bag (one bag can have multiple drops!) {collapsible="true"}
-<video src="RPGDrops1.mp4"/>
+<video src="https://youtu.be/xn3MKCUX82s"/>
 
 ###### A simple block drop, this time without the bag (so just flying out, velocity is configurable!) {collapsible="true"}
-<video src="RPGDrops2.mp4"/>
+<video src="https://youtu.be/OeHATBE30G4"/>
 
 ###### An example of getting a custom drop from fishing {collapsible="true"}
-<video src="RPGDrops3.mp4"/>
+<video src="https://youtu.be/InPAV50czKg"/>
 
 ###### -
 > More to come! \
