@@ -58,7 +58,7 @@ jobs:
           port: ${{ secrets.PORT }}
           password: ${{ secrets.PASSWORD }}
           source: "docs/webHelpD2-all.zip"
-          target: "/home/dkoften"
+          target: "/home/often"
 
       - name: Executing remote command
         uses: appleboy/ssh-action@master
