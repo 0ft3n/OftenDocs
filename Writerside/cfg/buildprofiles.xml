@@ -1,7 +1,7 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <variables>
-        <feedback-widget>true</feedback-widget>
+        <feedback-widget>false</feedback-widget>
         <feedback-url>https://vk.com/dvhhg1</feedback-url>
         <showDownloadButton>false</showDownloadButton>
         <feedback-support>null</feedback-support>
