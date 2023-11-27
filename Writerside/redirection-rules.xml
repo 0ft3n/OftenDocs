@@ -10,4 +10,9 @@
         <description>Created after removal of "Empty MD Topic" from Help Instance</description>
         <accepts>Empty-MD-Topic.html</accepts>
     </rule>
+    <rule id="3930497e">
+        <description>Created after removal of "Main configuration" from OftenDevelopment plugin documentation
+        </description>
+        <accepts>Main-configuration.html</accepts>
+    </rule>
 </rules>

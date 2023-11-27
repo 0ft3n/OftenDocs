@@ -10,8 +10,14 @@
 <!--    <toc-element topic="Tutorial.md"/>-->
     <toc-element topic="RPGDrops.md">
         <toc-element topic="Showcase.md"/>
+        <toc-element topic="Main-configuration.md"/>
+        <toc-element topic="Configuring-a-drop.md"/>
+        <toc-element topic="Commands-And-Permissions.md"/>
+        <toc-element topic="Custom-effects.md">
+            <toc-element topic="rpgdrops-chance-multiplier.md"/>
+        </toc-element>
     </toc-element>
-<!--    <toc-element topic="Reference.md"/>-->
+    <!--    <toc-element topic="Reference.md"/>-->
 <!--    <toc-element topic="Overview.md"/>-->
 <!--    <toc-element topic="How-to.md"/>-->
 </instance-profile>
