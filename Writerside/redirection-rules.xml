@@ -15,4 +15,12 @@
         </description>
         <accepts>Main-configuration.html</accepts>
     </rule>
+    <rule id="20d3bd5e">
+        <description>Created after removal of "SpacePingNode" from OftenDevelopment plugin documentation</description>
+        <accepts>SpacePingNode.html</accepts>
+    </rule>
+    <rule id="75821455">
+        <description>Created after removal of "SpacePingBot" from OftenDevelopment plugin documentation</description>
+        <accepts>RemoveThis.html</accepts>
+    </rule>
 </rules>
