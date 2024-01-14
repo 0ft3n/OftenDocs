@@ -21,8 +21,6 @@ Permission: 'itemeffects.command.add'
 * \<holder> - An ID of the holder to be added (see [Drop ID](Configuring-a-drop.md#id))
 * \<slot> - Slot for holder to work in (Available options: `mainhand`, `offhand`, `hands`,
 `armor`, `helmet`, `chestplate`, `leggings`, `boots`, `any`)
-* \<lore> - If you want to override the Default lore of the holder, you can specify it in the command,
-it supports PlaceholderAPI placeholder and updates dynamically. You can also add multiline lore by separating
-new lines with `/nl` sequence.
+* \<lore> - If you want to override the Default lore of the holder, you can specify it in the command, it supports PlaceholderAPI placeholder and updates dynamically. You can also add multiline lore by separating new lines with `/nl` sequence.
 
 Add a holder to the item in main hand

@@ -47,3 +47,5 @@ items with this holder.
 
 A list of [Libreforge conditions](https://plugins.auxilor.io/effects/configuring-a-condition) a player has to meet
 to be able to use this holder.
+
+**Created your holder ? Now look at [How to add your holder to the item in game](Commands-And-Permissions-IE.md)!**

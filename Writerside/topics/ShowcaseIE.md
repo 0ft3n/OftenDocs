@@ -11,4 +11,4 @@
 ###### A screenshot of an item with custom effects added
 <img src="ieitem.png" alt="A screenshot of an item with custom effects added"/>
 
-**Want to know more ? Head to [Creating your own effects holder](Configuring-A-Holder-IE.md)!**
+**Want to know more ? Check out [Creating your own effects holder](Configuring-A-Holder-IE.md)!**
