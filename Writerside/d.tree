@@ -19,8 +19,19 @@
     </toc-element>
     <toc-element topic="ItemEffects.md">
         <toc-element topic="ShowcaseIE.md"/>
+        <toc-element topic="Main-Config.md"/>
         <toc-element topic="Configuring-A-Holder-IE.md"/>
+        <toc-element topic="Configuring-A-Scroll.md"/>
+        <toc-element topic="Configuring-targets.md"/>
         <toc-element topic="Commands-And-Permissions-IE.md"/>
+        <toc-element topic="Custom-effects-IE.md">
+            <toc-element topic="remove-scroll.md"/>
+            <toc-element topic="add-scroll.md"/>
+        </toc-element>
+        <toc-element topic="Custom-Conditions.md">
+            <toc-element topic="has-scroll.md"/>
+            <toc-element topic="has-holder.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="ModelChanger.md">
         <toc-element topic="ShowcaseMC.md"/>

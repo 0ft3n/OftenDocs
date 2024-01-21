@@ -23,4 +23,8 @@
         <description>Created after removal of "SpacePingBot" from OftenDevelopment plugin documentation</description>
         <accepts>RemoveThis.html</accepts>
     </rule>
+    <rule id="7a50628">
+        <description>Created after removal of "has_holder" from OftenDevelopment plugin documentation</description>
+        <accepts>has-holder.html</accepts>
+    </rule>
 </rules>
